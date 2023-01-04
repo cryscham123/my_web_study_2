@@ -1,0 +1,862 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "NoDPgdcT9fvEzH9yC-8CvjJq_lY",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IypqtcxUsjNl7GWPq9IRRvTie_4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "USJQV3Fc8YY"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-03T12:00:27Z",
+                "channelId": "UCfVPkqHdqDon3OfKn6Qm1kA",
+                "title": "Mario Party 9 ALL MINIGAMES + All Bosses!!",
+                "description": "ALL MINIGAMES MARIO PARTY 9 + All Bosses, final boss, and all Bowser minigames playing as Bowser and all characters Mario ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/USJQV3Fc8YY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/USJQV3Fc8YY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/USJQV3Fc8YY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ZXMany",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-03T12:00:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Lkqy4mnZokXY4CWodkgO5g62cKU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tMYg69DfFLs"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-29T22:23:27Z",
+                "channelId": "UCbu2SsF-Or3Rsn3NxqODImw",
+                "title": "The Super Mario Bros Movie Official Trailer",
+                "description": "Check out the second teaser trailer for The Super Mario Bros. Movie. This time we get to see Princess Peach, Donkey Kong, Luigi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tMYg69DfFLs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tMYg69DfFLs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tMYg69DfFLs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GameSpot",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-29T22:23:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "E7UthgQU9hzQFoq_ENKIkqhspus",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KydqdKKyGEk"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-06T20:12:15Z",
+                "channelId": "UCq7OHvWO6Z3u-LztFdrcU-g",
+                "title": "The Super Mario Bros. Movie | Official Teaser Trailer",
+                "description": "The official teaser trailer for The Super Mario Bros. Movie is here! -- The Super Mario Bros. Movie Only In Theaters April 7, 2023 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KydqdKKyGEk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KydqdKKyGEk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KydqdKKyGEk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Illumination",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-06T20:12:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ep42ABeMDn5qf1aBsap3491YYxE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iRDNPdqLMME"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-02T16:38:32Z",
+                "channelId": "UCfBkzAvx7_fEiJ2rfChydYQ",
+                "title": "Super Mario Odyssey - New Secret Bosses and Playable Characteres 24/7 Livestream",
+                "description": "Super Mario Odyssey - New Secret Bosses and Playable Characteres 24/7 Livestream 1080P/60FPS/Walkthrough ▻Subscribe if ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iRDNPdqLMME/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iRDNPdqLMME/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iRDNPdqLMME/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sirloin",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2023-01-02T16:38:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DM7E-siDhun2RyYv9o9ft_l-s1E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sgHDIUxR23E"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-01T14:45:01Z",
+                "channelId": "UC-2wnBgTMRwgwkAkHq4V2rg",
+                "title": "Super Mario Odyssey - Full Game Walkthrough",
+                "description": "A full game walkthrough on Super Mario Odyssey for Nintendo Switch. This covers the whole story, all kingdoms and bosses of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sgHDIUxR23E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sgHDIUxR23E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sgHDIUxR23E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ProsafiaGaming",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-01T14:45:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ft95A6sCqQnxw7blXYkKMEvb5tQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "e-3sYL7vJTQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-09T03:05:30Z",
+                "channelId": "UCq7OHvWO6Z3u-LztFdrcU-g",
+                "title": "The Super Mario Bros. Movie | “Mushroom Kingdom” | Official Movie Clip",
+                "description": "Mushroom Kingdom's top tour guide gives Mario an exclusive look at the big city. #SuperMarioMovie -- The Super Mario Bros.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e-3sYL7vJTQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e-3sYL7vJTQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e-3sYL7vJTQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Illumination",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-09T03:05:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gQ2YAJbudmwSc7aGx_tV08wuEV4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Yz9ThWQ0VAc"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-24T12:00:07Z",
+                "channelId": "UCSYteL9YFpeMZOfAcv0itEA",
+                "title": "Mario Party 9 MiniGames - Mario Vs Luigi Vs Peach Vs Daisy (Master Difficulty)",
+                "description": "Mario Party 9 MiniGames - Mario Vs Luigi Vs Peach Vs Daisy (Master Difficulty) #MarioParty9.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Yz9ThWQ0VAc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Yz9ThWQ0VAc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Yz9ThWQ0VAc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ConvictedBattler",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-24T12:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_NmW09qY9HPgLIwY6mrw1hEsYNY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qevgo4sHxeQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-29T22:13:06Z",
+                "channelId": "UC0L0KUZRoSh0Xt7UL5xFnsA",
+                "title": "The Super Mario Bros. Movie - Official Trailer (Universal Pictures) HD",
+                "description": "Follow us on Facebook at https://www.facebook.com/UniversalPicturesAU Find us on Instagram at ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qevgo4sHxeQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qevgo4sHxeQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qevgo4sHxeQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Universal Pictures Australia",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-29T22:13:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8LDfkZkL3vYr2RscsMGaxVT5Qlw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QVD48BOcwms"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-06T21:16:29Z",
+                "channelId": "UC1Dw9pjaXVxGDd3dyzWa2sg",
+                "title": "The Super Mario Bros. Movie | Official Teaser Trailer",
+                "description": "The official teaser trailer for The Super Mario Bros. Movie is here! -- The Super Mario Bros. Movie Only In Theatres April 7, 2023 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QVD48BOcwms/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QVD48BOcwms/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QVD48BOcwms/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Universal Pictures Canada",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-06T21:16:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "el3haK2GmoQr5AQrijqLfrx4Jv4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3Tc_Ek0ASSA"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-08T18:01:25Z",
+                "channelId": "UCNmP3TUBqcqAI3KSpUBIePA",
+                "title": "Super Mario World - Complete Walkthrough",
+                "description": "A complete 96 exit walkthrough of Super Mario World for the SNES. 00:00 Intro 00:51 Yoshi's Island 9:44 Donut Plains 32:03 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3Tc_Ek0ASSA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3Tc_Ek0ASSA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3Tc_Ek0ASSA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Typhlosion4President",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-08T18:01:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8kCIIRvYcY4VHDOYnVo992GbL1Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rLl9XBg7wSs"
+            },
+            "snippet": {
+                "publishedAt": "2014-05-04T21:02:26Z",
+                "channelId": "UCfsEZNanT8pKishHomWNO9A",
+                "title": "Super Mario Bros. (1985) Full Walkthrough NES Gameplay [Nostalgia]",
+                "description": "FACEBOOK: https://www.facebook.com/Pii0519 PAYPAL: https://www.paypal.com/paypalme/Pii89YT ENEBA: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rLl9XBg7wSs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rLl9XBg7wSs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rLl9XBg7wSs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pii89",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-05-04T21:02:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZvUjunL-4OoRt8mmwwotg4bgrvE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OO_Dby7G48E"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-09T03:13:04Z",
+                "channelId": "UCUnRn1f78foyP26XGkRfWsA",
+                "title": "The Super Mario Bros. Movie Clip | The Game Awards 2022",
+                "description": "We finally got an in-depth look at Mario's return to the big screen, as well as Chris Pratt's performance, in this clip of our favorite ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OO_Dby7G48E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OO_Dby7G48E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OO_Dby7G48E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GameSpot Trailers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-09T03:13:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1HPLdxUb-BG5hb_yB7t8hUJ9tVA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ALb88OF_7tA"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-17T11:00:04Z",
+                "channelId": "UCN-VsDZo3GezqW2Y2C0z51g",
+                "title": "Super Mario Party - Christmas Special All Minigames (Master Difficulty)",
+                "description": "Super Mario Party - Christmas Special All Minigames (Master Difficulty) ▻ If you have any request, please comment for me now.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ALb88OF_7tA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ALb88OF_7tA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ALb88OF_7tA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JinnaGaming",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-17T11:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nOkKzVdEHefCvb4I3L0mAlzCXMc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UY-yufM8IRo"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-29T22:27:56Z",
+                "channelId": "UCpJN7kiUkDrH11p0GQhLyFw",
+                "title": "THE SUPER MARIO BROS: MOVIE Official Trailer 2 (2023)",
+                "description": "Second movie trailer for The Super Mario Bros. Movie.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UY-yufM8IRo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UY-yufM8IRo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UY-yufM8IRo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Movie Trailers Source",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-29T22:27:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sPnfN8XUs0713OOBOl8-cKcMTxw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9X2251IuWp0"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-06T20:31:44Z",
+                "channelId": "UCbu2SsF-Or3Rsn3NxqODImw",
+                "title": "The Super Mario Bros. Movie Official Teaser Trailer",
+                "description": "Get your first glimpse of the Super Mario Bros. animated movie. We get to see and hear from Bowser, Mario, and Toad!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9X2251IuWp0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9X2251IuWp0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9X2251IuWp0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GameSpot",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-06T20:31:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OdwywHumgGUlvvWoMYHPsYN9EVc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DCSN0uMEJac"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-03T12:04:42Z",
+                "channelId": "UCuOkwJEpwL-6TTGtlGuBE1A",
+                "title": "Toilet Prank: Mario, Luigi and Peach Challenge Poor vs Rich vs Giga Rich in Maze Mayhem",
+                "description": "Toilet Prank: Mario, Luigi and Peach Challenge Poor vs Rich vs Giga Rich in Maze Mayhem ----------- Enjoy! ❤ Please ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DCSN0uMEJac/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DCSN0uMEJac/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DCSN0uMEJac/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JV GAME BOX",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-03T12:04:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pulO_P8Q-pMLJmVjhcPIweTkOpI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hOB8bYcV1ik"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-27T23:00:09Z",
+                "channelId": "UC69IolSTHZF8qcmeo38RAwQ",
+                "title": "Super Mario 3D World - Complete Walkthrough (100%)",
+                "description": "In this video we play through Super Mario 3D World + Bowser's Fury for the Nintendo Switch! 100% Walkthrough showing off All ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hOB8bYcV1ik/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hOB8bYcV1ik/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hOB8bYcV1ik/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NintendoCentral",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-27T23:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LtgirtZepl3ol0ZVQ0nj3bwPnI0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oiypE4jfMzY"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-09T03:12:06Z",
+                "channelId": "UCbu2SsF-Or3Rsn3NxqODImw",
+                "title": "The Super Mario Bros. Mushroom Kingdom Movie Clip | The Game Awards 2022",
+                "description": "We finally got an in-depth look at Mario's return to the big screen, as well as Chris Pratt's performance, in this clip of our favoirte ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oiypE4jfMzY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oiypE4jfMzY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oiypE4jfMzY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GameSpot",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-09T03:12:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "C428gvOQMENa5LnCFFOcrzoj5-4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ohJrpHUoZ10"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-29T22:09:58Z",
+                "channelId": "UCGIY_O-8vW4rfX98KlMkvRg",
+                "title": "The Super Mario Bros. Movie Direct – 11.29.2022 (Second Trailer)",
+                "description": "Watch the latest Nintendo Direct presentation to see the world premiere of The Super Mario Bros. Movie's second trailer! No game ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ohJrpHUoZ10/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ohJrpHUoZ10/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ohJrpHUoZ10/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nintendo of America",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-29T22:09:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XMGn9Ci4ILPWKxZMA6DiNuicw3w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TnGl01FkMMo"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-29T22:05:04Z",
+                "channelId": "UCq7OHvWO6Z3u-LztFdrcU-g",
+                "title": "The Super Mario Bros. Movie | Official Trailer",
+                "description": "Warp into the new official #SuperMarioMovie trailer. -- The Super Mario Bros. Movie Only In Theaters April 7, 2023 Facebook: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TnGl01FkMMo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TnGl01FkMMo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TnGl01FkMMo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Illumination",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-29T22:05:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "L6uZvp1a7xZ_1tgtuks85naGTEA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LLIn2HB7ud0"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-06T20:25:57Z",
+                "channelId": "UCi8e0iOVk1fEOogdfu4YgfA",
+                "title": "The Super Mario Bros Movie Teaser Trailer (2023)",
+                "description": "Check out The Super Mario Bros Movie Official Trailer starring Chris Pratt, Anya Taylor-Joy and Charlie Day! ▻ Sign up for a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LLIn2HB7ud0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LLIn2HB7ud0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LLIn2HB7ud0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rotten Tomatoes Trailers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-06T20:25:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dMQsZM_Zaht-TbI-IKc-6l4eK3g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2U1npAdGTUY"
+            },
+            "snippet": {
+                "publishedAt": "2020-02-06T22:54:43Z",
+                "channelId": "UC-2wnBgTMRwgwkAkHq4V2rg",
+                "title": "Super Mario Odyssey - Full Game Walkthrough (Mario &amp; Luigi)",
+                "description": "This video shows a complete walkthrough of Super Mario Odyssey playing as Mario & Luigi on the Nintendo Switch. Mod created ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2U1npAdGTUY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2U1npAdGTUY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2U1npAdGTUY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ProsafiaGaming",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-02-06T22:54:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ILSyf4mijm5M4gHzKUI7FvSAUGA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vuCFxe_A3ZA"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-31T12:00:02Z",
+                "channelId": "UCq5_VTQRe-H92TL_4bgUfLw",
+                "title": "Mario and Tiny Mario&#39;s Rising Acid Escape",
+                "description": "Mario and Tiny Mario's Rising Acid Escape -------- A deadly Acid class is chasing Mario and Tiny Mario! Guess what they did to get ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vuCFxe_A3ZA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vuCFxe_A3ZA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vuCFxe_A3ZA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BOX STORY GAME",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-31T12:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "557VGdeG3l5khBO-IDIZ46fvkNA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2CXG02qzWcM"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-24T11:27:50Z",
+                "channelId": "UC8WBLj_aquoUjJkXPXMC5aA",
+                "title": "Super Mario Winter Run | Winter Brain Break | GoNoodle | Just Dance",
+                "description": "Take an adventure through all the winter scenes as you help Mario help get the little penguin back to its mama! Each round ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2CXG02qzWcM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2CXG02qzWcM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2CXG02qzWcM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matthew Wood",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-24T11:27:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TsF8oK5s44d_ymKEShIoIa2-kTs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bDv3P05P4F4"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-02T19:52:33Z",
+                "channelId": "UCwRqWnW5ZkVaP_lZF7caZ-g",
+                "title": "More Super Mario Bros. Mechanics Explained",
+                "description": "If the game is limited to 3 objects per column, how can you get 5 sometimes? How does the 4-2 wrong warp work, and how do ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bDv3P05P4F4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bDv3P05P4F4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bDv3P05P4F4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Retro Game Mechanics Explained",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-02T19:52:33Z"
+            }
+        }
+    ]
+}
